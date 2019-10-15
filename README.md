@@ -16,3 +16,8 @@ Learning resources for course 15IT324E
 [Concept reference chapters](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html)
 
 [Slide decks](https://drive.google.com/drive/folders/1eu-LXxiHocSktGYpG04PfE9Xmr_pBY5P)
+
+### Concepts
+#### Services
+[Google developers](https://developer.android.com/guide/components/services)
+[Android Services - Tutorial (vogella)](https://vogella.com/tutorials/AndroidServices/article.html)
