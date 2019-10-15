@@ -20,4 +20,5 @@ Learning resources for course 15IT324E
 ### Concepts
 #### Services
 [Google developers](https://developer.android.com/guide/components/services)
+
 [Android Services - Tutorial (vogella)](https://vogella.com/tutorials/AndroidServices/article.html)
